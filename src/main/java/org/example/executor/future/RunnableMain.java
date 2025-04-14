@@ -1,6 +1,5 @@
-package org.example.executor;
+package org.example.executor.future;
 
-import org.example.util.MyLogger;
 import org.example.util.ThreadUtils;
 
 import java.util.Random;
